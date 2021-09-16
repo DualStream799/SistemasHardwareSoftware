@@ -17,7 +17,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-#     custom_dir: 'custom_theme'
+    custom_dir: 'custom_theme'
 
 docs_dir: material
 site_dir: docs
@@ -38,7 +38,7 @@ nav:
         - aulas/04-funcoes-mov/index.md
         - aulas/05-condicionais/index.md
         - aulas/06-condicionais-funcoes/index.md
-        # - aulas/07-loops/index.md
+        - aulas/07-loops/index.md
         # - aulas/08-variaveis-locais/index.md
         # - aulas/09-arrays/index.md
         # - aulas/10-malloc/index.md
